@@ -21,9 +21,10 @@ Pagrindinis platformos tikslas - pateikti pasaulio įvykių apžvalgą ir padėt
 
 ## Sistemos sudedamosios dalys
 
-• Kliento pusė (angl. Front-End) – naudojant Next.js 
-• Serverio pusė (angl. Back-End) – naudojant Node.js 
-• Neuroninis tinklas – Python; Duomenų bazė – MySQL
+* Kliento pusė (angl. Front-End) – naudojant Next.js 
+* Serverio pusė (angl. Back-End) – naudojant Node.js 
+* Neuroninis tinklas – Python
+* Duomenų bazė – MySQL
 
 ---
 
